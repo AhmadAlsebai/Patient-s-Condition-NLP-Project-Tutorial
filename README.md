@@ -8,6 +8,7 @@ This project leverages Natural Language Processing (NLP) techniques to analyze p
 
 - **`drugsComTrain.tsv`** - The dataset containing drug reviews, ratings, conditions, and other metadata.
 - **`patient_condition_nlp_project_tutorial.ipynb`** - A Jupyter Notebook that provides a step-by-step tutorial on how to process and analyze the dataset.
+- You can find the data on my drive : https://drive.google.com/drive/folders/1E4stCYkW2pcIjb6b43yR37D5qDjGVh1g?usp=drive_link
 
 ## Objectives
 
@@ -56,5 +57,3 @@ pip install pandas numpy nltk scikit-learn matplotlib seaborn
 This project is released under the MIT License.
 
 ---
-
-Feel free to modify this `README.md` file as needed based on further developments in your project.
