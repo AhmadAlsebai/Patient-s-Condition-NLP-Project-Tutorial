@@ -6,8 +6,8 @@ This project leverages Natural Language Processing (NLP) techniques to analyze p
 
 ## Project Files
 
-- `drugsComTrain.tsv` - The dataset containing drug reviews, ratings, conditions, and other metadata.
-- `patient_condition_nlp_project_tutorial.ipynb` - A Jupyter Notebook that provides a step-by-step tutorial on how to process and analyze the dataset.
+- **`drugsComTrain.tsv`** - The dataset containing drug reviews, ratings, conditions, and other metadata.
+- **`patient_condition_nlp_project_tutorial.ipynb`** - A Jupyter Notebook that provides a step-by-step tutorial on how to process and analyze the dataset.
 
 ## Objectives
 
@@ -22,3 +22,39 @@ To run this project, install the following Python libraries:
 
 ```bash
 pip install pandas numpy nltk scikit-learn matplotlib seaborn
+```
+
+## Getting Started
+
+1. **Clone this repository (if applicable).**
+   ```bash
+   git clone <repository_url>
+   cd <repository_name>
+   ```
+2. **Open the Jupyter Notebook**  
+   Launch Jupyter Notebook and open `patient_condition_nlp_project_tutorial.ipynb`:
+   ```bash
+   jupyter notebook
+   ```
+3. **Run the Notebook**  
+   Execute the cells sequentially to load and process the dataset.
+
+## Expected Outputs
+
+- Data visualization showing the distribution of patient conditions and drug effectiveness.
+- Preprocessed text data ready for modeling.
+- Machine learning model trained to classify conditions or predict drug effectiveness.
+
+## Future Enhancements
+
+- Implement deep learning models for improved classification.
+- Incorporate additional datasets to enhance analysis.
+- Develop an interactive dashboard for real-time insights.
+
+## License
+
+This project is released under the MIT License.
+
+---
+
+Feel free to modify this `README.md` file as needed based on further developments in your project.
